@@ -1,4 +1,4 @@
-# Amn-Project
+# Amn Project
 ### Project Goul:
 The goal of this project is to create a safe environment in which a user may encrypt and decrypt any entered content.
 
